@@ -1,0 +1,40 @@
+{
+  "ignore": [
+"floats",
+"font-sizes",
+"ids",
+"important",
+"order-alphabetical",
+"font-faces",
+"import",
+"regex-selectors",
+"universal-selector",
+"unqualified-attributes",
+"zero-units",
+"overqualified-elements",
+"shorthand",
+"duplicate-background-images",
+"adjoining-classes",
+"box-sizing",
+"compatible-vendor-prefixes",
+"gradients",
+"text-indent",
+"vendor-prefix",
+"fallback-colors",
+"star-property-hack",
+"underscore-property-hack",
+"bulletproof-font-face",
+"box-model",
+"display-property-grouping",
+"duplicate-properties",
+"empty-rules",
+"known-properties",
+"outline-none",
+"qualified-headings",
+"unique-headings"
+  ],
+  "warnings": [
+  ],
+  "errors": [
+  ]
+}

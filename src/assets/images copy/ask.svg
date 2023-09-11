@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.542" height="26.542" viewBox="0 0 26.542 26.542">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.856" y1="0.18" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6ad114"/>
+      <stop offset="0.472" stop-color="#34a759"/>
+      <stop offset="1" stop-color="#08638f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_27532" data-name="Group 27532" transform="translate(-1545.125 -716.99)">
+    <g id="Group_27530" data-name="Group 27530">
+      <g id="Group_27531" data-name="Group 27531">
+        <ellipse id="Ellipse_2477" data-name="Ellipse 2477" cx="13.271" cy="13.271" rx="13.271" ry="13.271" transform="translate(1545.125 716.99)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <text id="_" data-name="?" transform="translate(1554.972 736.028)" fill="#fff" font-size="16" font-family="Rajdhani-SemiBold, Rajdhani" font-weight="600"><tspan x="0" y="0">?</tspan></text>
+  </g>
+</svg>

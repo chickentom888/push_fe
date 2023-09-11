@@ -1,0 +1,16 @@
+warning package.json: No license field
+$ tsup
+[34mCLI[39m Building entry: {"evm":"evm/index.ts"}
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v6.6.3
+[34mCLI[39m Using tsup config: C:\xampp\htdocs\gl.titani\pancake\pancake-frontend\packages\smart-router\tsup.config.ts
+[34mCLI[39m Target: es6
+[34mESM[39m Build start
+[34mCJS[39m Build start
+[32mCJS[39m [1mdist\evm.js [22m[32m146.58 KB[39m
+[32mCJS[39m ⚡️ Build success in 328ms
+[32mESM[39m [1mdist\evm.mjs [22m[32m134.95 KB[39m
+[32mESM[39m ⚡️ Build success in 329ms
+[34mDTS[39m Build start
+[32mDTS[39m ⚡️ Build success in 6562ms
+[32mDTS[39m [1mdist\evm.d.ts [22m[32m6.21 KB[39m
